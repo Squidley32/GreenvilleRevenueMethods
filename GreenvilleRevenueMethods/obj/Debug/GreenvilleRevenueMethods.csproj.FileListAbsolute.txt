@@ -1,0 +1,21 @@
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csprojAssemblyReference.cache
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csproj.CoreCompileInputs.cache
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe.config
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.pdb
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.exe
+C:\Users\Lifetime Roofing STL\source\repos\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.pdb
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe.config
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.pdb
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csprojAssemblyReference.cache
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csproj.CoreCompileInputs.cache
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.exe
+C:\Users\saahl\Desktop\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.pdb
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe.config
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.exe
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\GreenvilleRevenueMethods.pdb
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csprojAssemblyReference.cache
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.csproj.CoreCompileInputs.cache
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.exe
+C:\Users\saahl\Desktop\Development Portfolio\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\GreenvilleRevenueMethods.pdb
